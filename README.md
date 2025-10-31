@@ -142,5 +142,140 @@
 * Hash Map in caching system
 
 ---
+চমৎকার সিদ্ধান্ত, 💪 Rupom!
+**“DSA Master”** হওয়া মানে শুধু তত্ত্ব জানা না — বরং বাস্তবে সমস্যা সমাধানের **লজিক্যাল চিন্তা, প্যাটার্ন রিকগনিশন, অপ্টিমাইজেশন** — সব কিছু আয়ত্তে আনা।
+
+চলো আমি তোমাকে একটা **সম্পূর্ণ রোডম্যাপ + স্টাডি গাইডলাইন + রিসোর্স প্ল্যান** দিচ্ছি যাতে তুমি ধাপে ধাপে **DSA Master** হতে পারো 🔥
+
+---
+
+## 🧠 DSA Master Roadmap (From Zero → Expert)
+
+---
+
+### 🩵 **Phase 1: Strong Foundation (Basics)**
+
+**সময় লাগবে:** 2–3 সপ্তাহ
+
+#### 🎯 লক্ষ্য:
+
+* DSA কীভাবে কাজ করে সেটা বোঝা
+* Time & Space Complexity আয়ত্ত করা
+* Basic Linear Data Structures শেখা
+
+#### 📘 টপিকস:
+
+1. What is Data Structure & Algorithm
+2. Time Complexity (Big O, Ω, Θ)
+3. Space Complexity
+4. Arrays (Operations, Searching, Sorting)
+5. Linked List (Singly, Doubly, Circular)
+6. Stack & Queue
+
+#### 💡 প্র্যাকটিস:
+
+* Array rotation, Reverse array
+* Stack দিয়ে Bracket matching
+* Queue দিয়ে simulation problem
+
+#### 🧩 রিসোর্স:
+
+* YouTube: Apna College / Jenny’s Lectures
+* Book: *Data Structures Through C in Depth* – S. K. Srivastava
+* Platform: [LeetCode Easy Section](https://leetcode.com/problemset/all/?difficulty=EASY)
+
+---
+
+### 💚 **Phase 2: Non-Linear Data Structures**
+
+**সময় লাগবে:** 3–4 সপ্তাহ
+
+#### 🎯 লক্ষ্য:
+
+* জটিল data সম্পর্ক বোঝা
+* Trees, Graphs আয়ত্ত করা
+
+#### 📘 টপিকস:
+
+1. Trees → Binary, BST, AVL
+2. Tree Traversal → Preorder, Inorder, Postorder
+3. Heap → Min/Max Heap, Priority Queue
+4. Graph → BFS, DFS, Shortest Path (Dijkstra)
+5. HashMap, HashTable
+
+#### 💡 প্র্যাকটিস:
+
+* Tree traversal problems
+* Graph connected components
+* Heap for top K elements
+
+#### 🧩 রিসোর্স:
+
+* Book: *Data Structures & Algorithms Made Easy* – Narasimha Karumanchi
+* YouTube: Abdul Bari – Tree & Graph playlist
+* Platform: [GeeksForGeeks – Tree/Graph Problems](https://www.geeksforgeeks.org/)
+
+---
+
+### 🧩 **Phase 3: Algorithms Deep Dive**
+
+**সময় লাগবে:** 4–5 সপ্তাহ
+
+#### 🎯 লক্ষ্য:
+
+* ক্লাসিক্যাল অ্যালগরিদম আয়ত্ত করা
+* Problem solving efficiency বাড়ানো
+
+#### 📘 টপিকস:
+
+1. Searching Algorithms (Linear, Binary)
+2. Sorting Algorithms (Merge, Quick, Heap Sort)
+3. Recursion & Backtracking
+4. Divide and Conquer
+5. Greedy Algorithms
+6. Dynamic Programming (DP)
+7. Bit Manipulation
+8. Sliding Window & Two Pointers
+
+#### 💡 প্র্যাকটিস:
+
+* 0/1 Knapsack, Fibonacci DP
+* Subset sum, N-Queens
+* Longest Common Subsequence
+* Kadane’s Algorithm
+
+#### 🧩 রিসোর্স:
+
+* Book: *Introduction to Algorithms* (CLRS)
+* Platform: [LeetCode Medium Level](https://leetcode.com/problemset/all/?difficulty=MEDIUM)
+* YouTube: Striver’s A2Z DSA Playlist
+
+---
+
+### 🔥 **Phase 4: Advanced Topics & Optimization**
+
+**সময় লাগবে:** 3–4 সপ্তাহ
+
+#### 🎯 লক্ষ্য:
+
+* Complex data system optimize করা
+* Real-world performance বুঝা
+
+#### 📘 টপিকস:
+
+1. Trie (Prefix Tree)
+2. Segment Tree, Fenwick Tree
+3. Disjoint Set Union (Union-Find)
+4. Graph Advanced (Floyd–Warshall, Kruskal, Prim)
+5. String Algorithms → KMP, Rabin-Karp
+6. Dynamic Programming Advanced
+
+#### 💡 প্র্যাকটিস:
+
+* Minimum Spanning Tree problems
+* Shortest Path variations
+* String pattern matching
+
+
 
 
