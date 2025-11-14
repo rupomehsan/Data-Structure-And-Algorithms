@@ -272,4 +272,316 @@
 
 
 
+---
+
+# 🚀 **MASTER LEVEL DSA ROADMAP (Beginner → Legendary)**
+
+**শুধু শেখা না — mastery = concepts + intuition + implementation + problems.**
+
+---
+
+# ⭐ PART–1: FOUNDATIONS (Absolute Beginner → Strong Core)
+
+### ✅ 1. Basic Math & Logic
+
+* Time & Space Complexity
+* Big-O Notation
+* Recursion basics
+* Iteration vs Recursion
+* Call stack (pure understanding)
+
+📌 Problem practice:
+
+* Running sum
+* Count digits
+* Reverse number
+* Factorial
+* Fibonacci
+* Power (fast & slow)
+
+---
+
+# ⭐ PART–2: LINEAR DATA STRUCTURES (Master these)
+
+### 🔶 2. Arrays
+
+* Static vs Dynamic
+* Sliding window technique
+* Prefix sum / difference array
+* Kadane’s algorithm
+
+📝 Problems:
+
+* Max subarray
+* Two sum
+* Move zeros
+* Rotate array
+* Majority element
+
+---
+
+### 🔶 3. Linked List
+
+* Single / Double / Circular
+* Fast & slow pointer / Cycle detection
+* Reversal techniques
+* Sorting LL
+* Merge two lists
+
+📝 Problems:
+
+* Reverse LL
+* Detect cycle
+* Remove kth node
+* Intersection point
+* Palindrome LL
+
+---
+
+### 🔶 4. Stack
+
+* Using array & LL
+* Monotonic stack (MUST)
+* Expression evaluation
+* Infix → postfix
+
+📝 Problems:
+
+* Valid parentheses
+* Next greater element
+* Trapping rainwater
+* Min stack
+
+---
+
+### 🔶 5. Queue
+
+* Circular queue
+* Deque
+* Priority queue intro (heap basics)
+
+📝 Problems:
+
+* Sliding window max (deque)
+* Rotting oranges
+* Level-order BFS
+
+---
+
+# ⭐ PART–3: NON-LINEAR STRUCTURES (DSA core)
+
+### 🔶 6. Trees
+
+* Binary tree basics
+* DFS / BFS
+* Diameter
+* Height
+* LCA (Lowest Common Ancestor)
+* Binary Search Tree (BST)
+* Balanced trees (AVL/Red-Black Tree - concept level)
+
+📝 Problems:
+
+* Inorder / preorder / postorder
+* Balanced tree check
+* Max path sum
+* Zig-zag traversal
+* Serialize/deserialize tree
+
+---
+
+### 🔶 7. Heaps
+
+* Min-heap / Max-heap
+* Heapify
+* K-sorted array
+* Priority queue techniques
+
+📝 Problems:
+
+* Kth largest
+* Merge k sorted list
+* Sliding window using heap
+
+---
+
+### 🔶 8. Graphs (Master level mandatory)
+
+* BFS, DFS
+* Directed vs Undirected
+* Cycle detection
+* Topological sort
+* Shortest path:
+
+  * Dijkstra
+  * Bellman-Ford
+  * Floyd–Warshall
+* MST:
+
+  * Kruskal
+  * Prim
+
+📝 Problems:
+
+* Number of islands
+* Clone graph
+* Course schedule
+* Shortest path
+* Bridges & articulation point (Advanced)
+
+---
+
+# ⭐ PART–4: ALGORITHMS (High-level mastery)
+
+### 🔶 9. Searching
+
+* Linear
+* Binary
+* Binary search on answer (VERY IMPORTANT)
+* Ternary search
+
+📝 Problems:
+
+* Search in rotated array
+* Aggressive cows
+* Painters partition
+* Allocate books
+
+---
+
+### 🔶 10. Sorting
+
+* Quick sort
+* Merge sort
+* Heap sort
+* Counting sort
+* Bucket sort
+
+📝 Problems:
+
+* Merge intervals
+* Min platforms
+* Meeting rooms
+
+---
+
+# ⭐ PART–5: ADVANCED TECHNIQUES (Master → Elite)
+
+### 🔶 11. Greedy Algorithms
+
+* Activity selection
+* Huffman coding
+* Fractional knapsack
+* Gas station
+* Job sequencing
+
+---
+
+### 🔶 12. Dynamic Programming (DP) — **DSA Mastery’s Final Boss**
+
+Levels:
+
+1. **DP on arrays**
+2. **DP on subsequences**
+3. **DP on Knapsack variations**
+4. **DP on grids**
+5. **DP on strings**
+6. **DP on trees**
+7. **DP on bitmask**
+8. **DP on graphs**
+
+📝 Problems:
+
+* Fibonacci DP
+* Longest Common Subsequence
+* Longest Increasing Subsequence
+* 0/1 Knapsack
+* Coin change
+* Edit distance
+* DP on trees (diameter, path sum, etc.)
+
+---
+
+# ⭐ PART–6: EXTREME LEVEL (Become Legendary)
+
+### 🔶 13. Advanced Data Structures
+
+* Segment Tree
+* Fenwick Tree (Binary Indexed Tree)
+* Trie
+* Disjoint Set Union (DSU)
+* Splay Tree
+* B-Tree
+* K-D Tree
+
+---
+
+### 🔶 14. Advanced Algorithms
+
+* KMP Algorithm (pattern matching)
+* Rabin-Karp
+* Z-algorithm
+* Manacher’s Algorithm
+* Mo’s Algorithm
+* Tarjan’s Algorithm
+* Kahn’s Algorithm
+* A* Search Algorithm
+
+---
+
+# ⭐ PART–7: PRACTICE LADDER (Master-building)
+
+### 🔥 Problem Solving Platforms
+
+* LeetCode
+* Codeforces
+* HackerRank
+* AtCoder
+* GeeksForGeeks
+
+### 🔥 Pattern-based mastery
+
+* Two pointers
+* Sliding window
+* Hashing
+* Graph traversal
+* DP patterns (buy-sell stock, subsequence, partitions)
+
+---
+
+# ⭐ PART–8: SYSTEM DESIGN (DSA → Real-world skill)
+
+* Load balancing
+* Caching
+* Consistent hashing
+* Message queues
+* Distributed storage
+* Sharding & Replication
+* Database indexing
+* CAP theorem
+* Scalability patterns
+
+---
+
+# 🎯 Conclusion
+
+এই রোডম্যাপ জাস্ট follow করলে —
+👉 তুমি real "master-level" DSA developer হয়ে যাবে।
+👉 Software engineer interviews + problem solving + system design সব জায়গায় একদম confident হতে পারবে।
+
+---
+
+# ✨ Next Step
+
+যদি চাও, আমি তোমার জন্য—
+
+✅ **Daily 2-hour DSA Master Plan**
+অথবা
+✅ **Beginner → Master step-by-step course (Bangla)**
+অথবা
+✅ **Tutorial + exercises + coding practice**
+সেটআপ করে দিতে পারি।
+
+**Which one do you want?**
+
 
